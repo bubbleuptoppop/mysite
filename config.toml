@@ -3,7 +3,8 @@ baseURL = "https://mysite-eight.vercel.app/"
 languageCode = "en-US"
 title = "My First Website"
 theme = "hugo-split-theme"
-disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
+disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
+#disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
