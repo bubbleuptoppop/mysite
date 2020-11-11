@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "//example.org"
+baseURL = "https://mysite-eight.vercel.app/"
 languageCode = "en-US"
 title = "My First Website"
 theme = "hugo-split-theme"
